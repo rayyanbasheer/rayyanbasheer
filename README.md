@@ -1,6 +1,7 @@
-# 💫 About Me:
+<div align = 'center'>
+  # 💫 About Me:
 👋 Hi, I'm Mohamed Rayyan Basheer<br><br>🎓 Artificial Intelligence & Data Science professional passionate about building intelligent, data-driven solutions.<br><br>🤖 About Me<br><br>- 🔭 Exploring Artificial Intelligence, Machine Learning, and AI Agents<br>- 🌱 Learning LLMs, RAG, Generative AI, and Agentic AI<br>- 📊 Interested in Data Science, Data Analytics, and Data Engineering<br>- 🛠️ Building practical projects that solve real-world problems<br>- 🧠 Focused on strengthening problem-solving skills and developing production-ready AI applications<br>- 🤝 Open to collaborating on AI/ML projects and innovative ideas<br><br>🛠️ Technical Skills<br><br>- Languages: Python, SQL<br>- Data Science: Pandas, NumPy, Matplotlib, Seaborn<br>- Machine Learning: Scikit-learn, TensorFlow<br>- Backend Development: Flask, FastAPI<br>- Data Engineering: ETL/ELT, Data Pipelines, Data Warehousing, Data Modeling<br>- Databases: MySQL<br>- Tools: Git, GitHub, VS Code, Jupyter Notebook<br><br>🚀 Current Focus<br><br>Building real-world AI applications, exploring AI agents and LLM-based systems, and developing solutions that combine intelligent automation with data-driven decision-making.<br><br>📫 Connect With Me<br><br>- 💼 LinkedIn: Add your LinkedIn profile URL<br>- 📧 Email: Add your professional email address<br><br>💡 Learn continuously. Build consistently. Solve real problems.
-
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rayyanbasheer_05?vrfl=MXdqdjhwN2FwbzhoYQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/rayyanbasheer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayyanbasheer02@gmail.com) 
